@@ -2,6 +2,8 @@
 
 A production-ready MERN stack web app that converts isolated achievements into a connected professional story.
 
+Team of 4 participated in interpretX coding challenge. Members - Suriyan Loganathan 24BRS1009, Arjun 24BRS1232, Sairam 24BRS1347, Arunadithya Raguraman 24BRS1309
+
 ## Features
 
 - Secure auth (signup, login, JWT, protected routes, persistent login)
