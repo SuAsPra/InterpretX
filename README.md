@@ -1,6 +1,8 @@
 # Narrative Portfolio - Connected Achievements Dashboard
 
 A production-ready MERN stack web app that converts isolated achievements into a connected professional story.
+Demo Login:
+admin1@gmail.com / admin123
 
 Team of 4 participated in interpretX coding challenge. Members - Suriyan Loganathan 24BRS1009, Arjun 24BRS1232, Sairam 24BRS1347, Arunadithya Raguraman 24BRS1309
 
